@@ -1,0 +1,12 @@
+rootfs-*/
+rootfs-base/
+*.o
+*.ko
+*.mod.c
+*.symvers
+*.order
+.tmp_versions/
+engine
+cpu_bound
+containers.log
+*.tar.gz
