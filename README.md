@@ -1,11 +1,3 @@
-Got you — here’s a cleaner, more polished GitHub-style version with:
-
-* ❌ screenshots section removed
-* 🔢 numbering fixed
-* ✨ slightly upgraded formatting (still clean, not overkill)
-
----
-
 # 🚀 Multi-Container Runtime Project
 
 ![OS Project](https://img.shields.io/badge/Project-Operating%20Systems-blue)
