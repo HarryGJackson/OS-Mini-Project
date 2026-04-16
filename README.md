@@ -146,7 +146,3 @@ By implementing a custom Linux Kernel Module, the system achieves fine-grained c
 * Add container image management
 * Build a web-based monitoring dashboard
 
----
-
-If you want one final upgrade, I can:
-👉 make this look like a **Docker-style project page** (with diagrams + architecture section) — that would go crazy on a resume.
